@@ -1,10 +1,12 @@
 # Cadastro de funcionarios
 
-Cadastro de funcionarios utilizando classes e herança, foi uma atividade prática feita pela faculdade
+Cadastro de funcionarios e de registro de ponto de entrada e saída de funcionarios utilizando classes e herança, foi uma atividade prática feita pela faculdade
 
 ## 🚀 Começando
 
 Ao abrir o arquivo uma tabela se iniciara e você só precisa seguir as instruções para o funcionamento do programa
+
+### Senha para acesso ao comando de gerente/ USUARIO: COMLMET SENHA: 123
 
 ### 📋 Pré-requisitos
 
